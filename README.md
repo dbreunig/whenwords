@@ -39,3 +39,11 @@ for test generation examples.
 ```
 
 Pick your language, pick your location, copy, paste, and go.
+
+## Implementations
+
+Community implementations of the whenwords specification:
+
+| Language | Package | Author |
+|----------|---------|--------|
+| Ruby | [whenwords](https://github.com/ZPVIP/whenwords) | [@ZPVIP](https://github.com/ZPVIP) |
