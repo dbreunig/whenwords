@@ -1,0 +1,9 @@
+package whenwords
+
+version = "0.1.0"
+
+sourcedir = "src"
+
+modules = Whenwords
+
+main = Main
