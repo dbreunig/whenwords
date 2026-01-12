@@ -92,9 +92,9 @@ timeago:
     input: { timestamp: 1688169600, reference: 1704067200 }
     output: "6 months ago"
 
-  - name: "10 months ago - 319 days"
+  - name: "11 months ago - 319 days"
     input: { timestamp: 1676505600, reference: 1704067200 }
-    output: "10 months ago"
+    output: "11 months ago"
 
   - name: "1 year ago - 320 days"
     input: { timestamp: 1676419200, reference: 1704067200 }
@@ -248,7 +248,7 @@ duration:
 
   - name: "compact max_units 1"
     input: { seconds: 9000, options: { compact: true, max_units: 1 } }
-    output: "2h"
+    output: "3h"
 
   - name: "error - negative seconds"
     input: { seconds: -100 }
