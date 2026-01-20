@@ -39,3 +39,5 @@ for test generation examples.
 ```
 
 Pick your language, pick your location, copy, paste, and go.
+
+[I've written about `whenwords` here](https://www.dbreunig.com/2026/01/08/a-software-library-with-no-code.html).
