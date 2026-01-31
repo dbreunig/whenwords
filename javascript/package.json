@@ -1,0 +1,7 @@
+{
+  "name": "whenwords-js",
+  "private": true,
+  "scripts": {
+    "test": "node test.js"
+  }
+}
