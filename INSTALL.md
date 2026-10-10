@@ -34,7 +34,6 @@ for test generation examples.
 |------|---------|
 | SPEC.md | Complete behavior specification |
 | tests.yaml | Language-agnostic test cases |
-| VERIFY.md | Post-implementation verification checklist |
 
 ## Verification
 
@@ -42,11 +41,11 @@ After generation, run the test suite. All tests must pass:
 
 - 36 timeago tests
 - 26 duration tests
-- 33 parse_duration tests
-- 21 human_date tests
+- 32 parse_duration tests
+- 20 human_date tests
 - 9 date_range tests
 
-Total: 125 test cases.
+Total: 123 test cases.
 
 ## Why this works
 
